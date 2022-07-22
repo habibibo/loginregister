@@ -1,5 +1,10 @@
 # teskoffie
 
+Silakan download zip, kemudian masuk kedalam folder utama melalui terminal / cmd / vscode
+  1. Ketik -> flutter pub get
+  2. Ketik -> flutter run --no-sound-null-safety
+  3. atau -> flutter build apk --no-sound-null-safety
+
 A new Flutter project.
 
 ## Getting Started
